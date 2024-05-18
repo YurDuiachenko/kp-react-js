@@ -1,0 +1,13 @@
+.post {
+    border: 1px dashed #006b09;
+    border-radius: 15px;
+    box-shadow: 0.5em 1em 0.5em 0em rgba(64, 73, 59, 0.281);
+    padding: 1rem;
+    flex: 1 1 300px;
+}
+
+.post-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
